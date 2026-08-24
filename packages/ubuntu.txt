@@ -1,0 +1,5 @@
+# One Debian/Ubuntu package name per line.
+# Comments and blank lines are ignored.
+git
+curl
+jq
